@@ -29,7 +29,8 @@ world percentage	The percentage of the world’s total population that resides i
 
 
 ### Project Overview:
-Data Cleaning and Preparation : we change log file [Download log file](https://docs.google.com/document/d/18HSPJ-jHQMexk4OTWDWcEFRNT34VldGG/edit?pli=1) 
+Data Cleaning and Preparation : we change log file [Download log file](https://docs.google.com/document/d/1f23ZfxugsZbJcbOdyMn0BwIUpSuQwpAnqUsU4cJ6m6c/edit?usp=sharing)
+
 This step usually includes handling missing values, converting data types, or filtering the dateset as necessary for analysis
 
 Exploratory Data Analysis (EDA): The project dives deep into key population metrics, trends, and distributions through visualizations and statistical analysis.
